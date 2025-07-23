@@ -1,4 +1,4 @@
-Fake News Detection using Machine Learning
+# Fake News Detection using Machine Learning
 
 This project is a Fake News Detection system built using Machine Learning. It analyzes the text of news articles and classifies them as **REAL** or **FAKE**. The system is trained using a labeled dataset and uses text preprocessing and TF-IDF for feature extraction, followed by logistic regression for classification.
 
