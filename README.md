@@ -1,4 +1,4 @@
-# Fake News Detection using Machine Learning
+Fake News Detection using Machine Learning
 
 This project is a Fake News Detection system built using Machine Learning. It analyzes the text of news articles and classifies them as **REAL** or **FAKE**. The system is trained using a labeled dataset and uses text preprocessing and TF-IDF for feature extraction, followed by logistic regression for classification.
 
@@ -13,7 +13,7 @@ This project is a Fake News Detection system built using Machine Learning. It an
 
 # Dataset
 
-This project uses the **Fake and Real News Dataset** from Kaggle, which includes:
+This project uses the Fake and Real News Dataset from Kaggle, which includes:
 - `True.csv` – Real news articles from reliable sources.
 - `Fake.csv` – Fake or misleading news articles.
 
@@ -60,16 +60,6 @@ This project uses the **Fake and Real News Dataset** from Kaggle, which includes
 - Add data visualizations for better insights.
 - Use advanced NLP models like BERT or LSTM for improved accuracy.
 
----
 
-# Author
-
-**Damini**  
-GitHub: [@damini022](https://github.com/damini022)
-
----
-
-# License
-This project is open-source and free to use for educational purposes.
 
 
